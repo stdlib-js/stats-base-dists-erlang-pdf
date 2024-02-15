@@ -65,13 +65,13 @@ where `k` is the shape parameter and `lambda` is the rate parameter.
 ## Usage
 
 ```javascript
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-pdf@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-pdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-pdf@v0.2.0-deno/mod.js';
 ```
 
 #### pdf( x, k, lambda )
@@ -159,7 +159,7 @@ y = mypdf( 4.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-pdf@v0.2.0-deno/mod.js';
 
 var lambda;
 var k;
