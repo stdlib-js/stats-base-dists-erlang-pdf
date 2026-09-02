@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b57089d`](https://github.com/stdlib-js/stdlib/commit/b57089da4b646239adde37e44487601f657f92fa) - **bench:** generate arrays of random variates directly _(by Athan Reines)_
 -   [`2e86bc4`](https://github.com/stdlib-js/stdlib/commit/2e86bc47ed207bb03af97461771625e585e216d0) - **feat:** add C implementation for `stats/base/dists/erlang/pdf` [(#10554)](https://github.com/stdlib-js/stdlib/pull/10554) _(by Kamal Singh Rautela, Philipp Burckhardt, stdlib-bot)_
 -   [`473057c`](https://github.com/stdlib-js/stdlib/commit/473057cc730906f76f3558aca4dca0e02d482e73) - **test:** migrate `stats/base/dists/erlang/pdf` to ULP-based assertions [(#14787)](https://github.com/stdlib-js/stdlib/pull/14787) _(by Athan Reines)_
 
