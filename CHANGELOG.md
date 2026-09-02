@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-29)
+## Unreleased (2026-09-02)
+
+<section class="features">
+
+### Features
+
+-   [`2e86bc4`](https://github.com/stdlib-js/stdlib/commit/2e86bc47ed207bb03af97461771625e585e216d0) - add C implementation for `stats/base/dists/erlang/pdf` [(#10554)](https://github.com/stdlib-js/stdlib/pull/10554)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3575](https://github.com/stdlib-js/stdlib/issues/3575)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`2e86bc4`](https://github.com/stdlib-js/stdlib/commit/2e86bc47ed207bb03af97461771625e585e216d0) - **feat:** add C implementation for `stats/base/dists/erlang/pdf` [(#10554)](https://github.com/stdlib-js/stdlib/pull/10554) _(by Kamal Singh Rautela, Philipp Burckhardt, stdlib-bot)_
 -   [`473057c`](https://github.com/stdlib-js/stdlib/commit/473057cc730906f76f3558aca4dca0e02d482e73) - **test:** migrate `stats/base/dists/erlang/pdf` to ULP-based assertions [(#14787)](https://github.com/stdlib-js/stdlib/pull/14787) _(by Athan Reines)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kamal Singh Rautela
+-   Philipp Burckhardt
 
 </section>
 
